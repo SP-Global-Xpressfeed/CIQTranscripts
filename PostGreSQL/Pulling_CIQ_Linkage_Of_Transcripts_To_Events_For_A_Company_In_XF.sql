@@ -1,5 +1,5 @@
 /************************************************************************************************
-Returns Linakge Of Transcripts To Events 
+Returns Linkage Of Transcripts To Events 
 
 Packages Required:
 Events 1 Year Rolling Daily
