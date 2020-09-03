@@ -39,6 +39,9 @@ for a companys quarterly earnings call using the S&P Capital IQ Transcripts pack
 
 ***********************************************************************************************/
 
+--NOTE---Suggest to create Full Text (componenttext) and Non Clustered Index (transcriptId, transcriptComponentId,componentOrder,transcriptComponentTypeId,transcriptPersonId)on the table ciqTranscriptComponent
+---for better performance of the query. Creating Index may consume some of your database disk space---NOTE--
+
 SELECT comp.companyid
 , COUNT (DISTINCT p.transcriptpersonid) as
 AnalystCount

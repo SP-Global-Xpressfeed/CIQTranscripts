@@ -38,6 +38,9 @@ answered a question for Apple Inc using the word acquisition.
 
 ***********************************************************************************************/
 
+--NOTE---Suggest to create Full Text (componenttext) and Non Clustered Index (transcriptId, transcriptComponentId,componentOrder,transcriptComponentTypeId,transcriptPersonId)on the table ciqTranscriptComponent
+---for better performance of the query. Creating Index may consume some of your database disk space---NOTE--
+
 SELECT p.transcriptpersonname
 
 , e.headline, tc.componenttext

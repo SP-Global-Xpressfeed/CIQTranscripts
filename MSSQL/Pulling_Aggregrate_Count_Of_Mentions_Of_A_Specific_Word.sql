@@ -42,6 +42,9 @@ during earnings calls for an index by year using the SP Capital IQ Transcripts p
 
 ***********************************************************************************************/
 
+--NOTE---Suggest to create Full Text (componenttext) and Non Clustered Index (transcriptId, transcriptComponentId,componentOrder,transcriptComponentTypeId,transcriptPersonId)on the table ciqTranscriptComponent
+---for better performance of the query. Creating Index may consume some of your database disk space---NOTE--
+
 SELECT COUNT (DISTINCT t.keydevid) AS COUNT
 
 , YEAR(mostImportantDateUTC) AS YEAR
