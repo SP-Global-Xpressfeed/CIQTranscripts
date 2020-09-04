@@ -41,7 +41,7 @@ Query_Added_Date:
 31/08/2020
 
 DatasetKey:
-43,100
+11,36,100,45
 
 The following sample query returns earnings calls where an analyst asked a question for an Index Constituent 
 using the SP Capital IQ Transcripts package in Xpressfeed.
