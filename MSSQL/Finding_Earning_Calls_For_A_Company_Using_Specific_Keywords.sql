@@ -30,7 +30,7 @@ Query_Added_Date:
 31/08/2020
 
 DatasetKey:
-43
+11,36,45
 
 The following sample query returns earnings calls for a company using specific keywords using the SP Capital IQ 
 Transcripts package in Xpressfeed. This example uses earnings calls for Macys / Nordstrom / J.C. Penny 
