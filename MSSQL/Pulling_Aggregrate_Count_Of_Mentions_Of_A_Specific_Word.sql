@@ -1,5 +1,5 @@
 /************************************************************************************************
-Returns aggregate count of mentions of a specific keyword
+Returns Aggregate Count Of Mentions Of A Specific Keyword
 
 Packages Required:
 Euronext Constituent History
