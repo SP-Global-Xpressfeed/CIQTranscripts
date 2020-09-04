@@ -24,7 +24,7 @@ Query_Added_Date:
 31/08/2020
 
 DatasetKey:
-43,11
+11,36
 
 The following sample query returns linkage of transcripts to events for a company using the 
 SP Capital IQ Transcripts package in Xpressfeed.
