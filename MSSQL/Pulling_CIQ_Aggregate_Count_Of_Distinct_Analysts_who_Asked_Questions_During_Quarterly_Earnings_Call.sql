@@ -1,5 +1,5 @@
 /************************************************************************************************
-Returns aggregate count of distinct analysts who asked a question during quarterly earnings call
+Returns Aggregate Count Of Distinct Analysts Who Asked A Question During Quarterly Earnings Call
 
 Packages Required:
 Events 1 Year Rolling Daily
