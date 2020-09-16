@@ -38,7 +38,7 @@ DatasetKey:
 11,36,45,100
 
 The following sample query returns aggregate count of mentions of a specific keyword, such as weather for this example, 
-during earnings calls for an index by year using the SP Capital IQ Transcripts package in Xpressfeed.
+during earnings calls for an index by year using the S&P Capital IQ Transcripts package in Xpressfeed.
 
 ***********************************************************************************************/
 
