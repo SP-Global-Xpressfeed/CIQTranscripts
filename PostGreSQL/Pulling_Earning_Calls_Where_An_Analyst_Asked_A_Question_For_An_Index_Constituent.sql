@@ -1,5 +1,5 @@
 /************************************************************************************************
-Returns Earning Calls where an analyst asked a question for an Index Constituent
+Returns Earning Calls Where An Analyst Asked A Question For An Index Constituent
 
 Packages Required:
 Euronext Constituent History
