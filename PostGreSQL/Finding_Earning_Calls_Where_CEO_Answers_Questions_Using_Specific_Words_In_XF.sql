@@ -33,7 +33,7 @@ DatasetKey:
 11,36,45
 
 The following sample query earnings calls where CEO answers questions using specific keywords using the 
-SP Capital IQ Transcripts package in Xpressfeed. This example uses earnings calls where Tim Cook
+S&P Capital IQ Transcripts package in Xpressfeed. This example uses earnings calls where Tim Cook
 answered a question for Apple Inc using the word acquisition.
 
 ***********************************************************************************************/
