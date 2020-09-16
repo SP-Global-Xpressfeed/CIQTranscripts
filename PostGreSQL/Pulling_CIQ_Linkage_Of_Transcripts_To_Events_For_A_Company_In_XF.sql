@@ -27,7 +27,7 @@ DatasetKey:
 11,36
 
 The following sample query returns linkage of transcripts to events for a company using the 
-SP Capital IQ Transcripts package in Xpressfeed.
+S&P Capital IQ Transcripts package in Xpressfeed.
 
 ***********************************************************************************************/
 
