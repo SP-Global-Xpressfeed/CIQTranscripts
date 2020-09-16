@@ -44,7 +44,7 @@ DatasetKey:
 11,36,100,45
 
 The following sample query returns earnings calls where an analyst asked a question for an Index Constituent 
-using the SP Capital IQ Transcripts package in Xpressfeed.
+using the S&P Capital IQ Transcripts package in Xpressfeed.
 
 ***********************************************************************************************/
 
