@@ -32,7 +32,7 @@ Query_Added_Date:
 DatasetKey:
 11,36,45
 
-The following sample query returns earnings calls for a company using specific keywords using the SP Capital IQ 
+The following sample query returns earnings calls for a company using specific keywords using the S&P Capital IQ 
 Transcripts package in Xpressfeed. This example uses earnings calls for Macys / Nordstrom / J.C. Penny 
 using the word weather.
 
